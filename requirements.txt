@@ -1,0 +1,8 @@
+numpy
+seaborn
+matplotlib
+pandas
+fpdf
+statistics
+pyMySQL
+scipy
